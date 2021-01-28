@@ -104,7 +104,7 @@ switch (myDay) {
             desc: `Relax and drink some mocha!`
         }
         break;
-    case 7:
+    case 0:
         today = "Sunday";
         coffee = {
             color: "turquoise",
